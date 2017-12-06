@@ -1,6 +1,6 @@
-#Add Apps and Projects to Your Profile
+# Add Apps and Projects to Your Profile
 
-###Adding Projects
+### Adding Projects
 
 LinkedIn profiles can list projects you have worked on. This can be great for showing the applications and open source projects you have contributed to. 
 
@@ -30,7 +30,7 @@ Paste the link you generated from iTunes Link Maker there as well.
 
 Once you have done that, think about which of these projects you are most proud of. What was your best work? Scroll your profile back up to the top and click the edit (pencil) icon to the right of your photo. This will present a dialog to edit your intro. Just like editing your work experience, you can add media here. These will be some of the first things anyone viewing your profile will see - pick the three projects and add links to them.
 
-##What If I have Nothing To Add?
+## What If I have Nothing To Add?
 
 That is an excellent indication you should be contributing to an open source project!
 

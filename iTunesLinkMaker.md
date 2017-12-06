@@ -1,4 +1,4 @@
-#iTunes Link Maker
+# iTunes Link Maker
 
 Look up the app using 
 [iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us)
