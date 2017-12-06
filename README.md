@@ -1,4 +1,4 @@
-#LinkedIn for Mobile Developers
+# LinkedIn for Mobile Developers
 
 [Add your apps and projects to your profile](AddYourAppsToLinkedInProfile.md)
 
