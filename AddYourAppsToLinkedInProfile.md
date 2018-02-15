@@ -34,10 +34,16 @@ Once you have done that, think about which of these projects you are most proud 
 
 That is an excellent indication you should be contributing to an open source project!
 
-Find a project. Start with something you actually use.
+### Finding an open source project to contribute to
 
-Fork/branch it.
+Do your projects use any frameworks or libraries managed by CocoaPods, Carthage, or the Swift Package Manager? Look there first.
 
-Add unit tests or fix a bug.
+If you do not find anything there, try looking at [Github's trending Objective-C repositories list](https://github.com/trending/objective-c?since=monthly) or [trending swift repositories](https://github.com/trending/swift?since=monthly).
 
-Submit your changes back to the maintainer.
+Fork it.
+
+Look through the issues for the project on github. Fix one.
+
+Think you are not up to that challenge? Add a new unit test instead. Unit tests are a skill that employers look for and most open source projects need more tests. Tests are easy to write and often very welcome by maintainers.
+
+Submit your changes back to the maintainer with a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
