@@ -1,4 +1,4 @@
-# Add Apps and Projects to Your Profile
+-# Part 1 Add Apps and Projects to Your Profile
 
 ### Adding Projects
 
@@ -16,24 +16,22 @@ For an open source project enter a link to the project home page or repository. 
 
 For an application that is available on the iTunes app store use a link from iTunes Link Maker. 
 
-{icon=itunes}
-G> # iTunes Link Maker
-G> 
-G> Look up the app using 
-[iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us)
-G> 
-G> ![iTunes Link Maker Search Page](images/linkmakerselectmediatype.png)
-G> 
-G> In the "Media Type" dropdown, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
-G> 
-G> Search for the app by name or bundle ID. You should see a result like this:
-G> 
-G> ![iTunes Link Maker Search Result Page](images/linkmakerresult.png)
-G> 
-G> This will give you the name, app store description, and a direct link to the download page. The direct link at the bottom of the page is what you will want for your LinkedIn profile.
-G> 
-G> Write a short description of what you did on this app.
-G> 
+#### iTunes Link Maker
+
+Look up the app using 
+[iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us) 
+
+![iTunes Link Maker Search Page](images/linkmakerselectmediatype.png)
+ 
+In the "Media Type" dropdown, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
+ 
+Search for the app by name or bundle ID. You should see a result like this:
+ 
+ ![iTunes Link Maker Search Result Page](images/linkmakerresult.png)
+ 
+This will give you the name, app store description, and a direct link to the download page. The direct link at the bottom of the page is what you will want for your LinkedIn profile. 
+
+Write a short description of what you did on this app. 
 
 ### Adding apps to your work experience
 
