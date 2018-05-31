@@ -1,3 +1,15 @@
 frontmatter.txt
+mainmatter.txt
+Profile.md
+GeneralGuidelines.md
+AddYourAppsToLinkedInProfile.md
+Skills.md
+ProfilePhotos.md
+Network.md
+Connections.md
+Recommendations.md
+Recruiters.md
 backmatter.txt
+iTunesLinkMaker.md
+GooglePlayLinks.md
 
