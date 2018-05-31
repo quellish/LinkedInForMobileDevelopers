@@ -52,18 +52,21 @@ Once you have done that, think about which of these projects you are most proud 
 
 ### What If I have Nothing To Add?
 
-That is an excellent indication you should be contributing to an open source project!
-
 #### Finding an open source project to contribute to {#finding-open-source}
 
+Start with projects you are already familiar with.
 Do your projects use any frameworks or libraries managed by CocoaPods, Carthage, or the Swift Package Manager? Look there first.
 
-If you do not find anything there, try looking at [Github's trending Objective-C repositories list](https://github.com/trending/objective-c?since=monthly) or [trending swift repositories](https://github.com/trending/swift?since=monthly).
+Swift is open source, as are Grand Central Dispatch and SourceKit. On the Android side OkHTTP and many other code libraries are open source. 
 
-Fork it.
+If you are STILL looking, try [Github's trending Objective-C repositories list](https://github.com/trending/objective-c?since=monthly) or [trending swift repositories](https://github.com/trending/swift?since=monthly).
 
-Look through the issues for the project on github. Fix one.
+Read through the open issues and recent mailing list messages. Look for an issue, feature, or enhancement you believe you could handle. 
 
-Think you are not up to that challenge? Add a new unit test instead. Unit tests are a skill that employers look for and most open source projects need more tests. Tests are easy to write and often very welcome by maintainers.
+If you don't see an issue that fits your skills you can always add tests. Most open source projects appreciate contributed tests. Look for areas of the the project that have poor code coverage or areas that may be the source of bugs. 
 
-Submit your changes back to the maintainer with a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+Check the project documentation for guidance on how best to contribute. Many projects have guidelines for contributors and coding standards. 
+
+[Fork the project](https://help.github.com/articles/fork-a-repo/). Make your changes. [Submit a pull request back to the project.](https://help.github.com/articles/about-pull-requests/)
+
+Contributing changes to open source projects is one of the best things you can do for your career.  Imagine you are a manager looking for someone to join his Swift team. You find someone who not only knows Swift but *contributed code to it*.  Few things can top that.
