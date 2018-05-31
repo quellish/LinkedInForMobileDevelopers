@@ -1,6 +1,8 @@
+GeneralGuidelines.md
 AddYourAppsToLinkedInProfile.md
-Connections.md
-Recommendations.md
 Skills.md
 ProfilePhotos.md
-GeneralGuidelines.md
+
+Connections.md
+Recommendations.md
+
