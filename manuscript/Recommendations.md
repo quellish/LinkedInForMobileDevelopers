@@ -1,4 +1,5 @@
--# Part 2 Recommendations
+{mainmatter}
+## Recommendations
 
 Look up the person you want to recommend. You should be connected to them on LinkedIn *before* you recommend them. So if you aren't connected, connect to them first.
 

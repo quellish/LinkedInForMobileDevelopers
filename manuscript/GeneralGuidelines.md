@@ -1,4 +1,5 @@
-# General Guidelines
+{mainmatter}
+## General Guidelines
 
 Check your profile for grammar and spelling errors.
 

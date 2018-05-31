@@ -1,4 +1,5 @@
--# Part 1 Add Apps and Projects to Your Profile
+{mainmatter}
+## Add Apps and Projects to Your Profile
 
 ### Adding Projects
 
