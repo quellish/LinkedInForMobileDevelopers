@@ -1,4 +1,4 @@
-## Connections
+## Connections {#connections}
 
 Look up people you have worked with in the past. Start by looking over the work experience you have listed on your profile. For each job, who in that company comes to mind first? Connect with them on LinkedIn.
 

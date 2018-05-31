@@ -1,6 +1,6 @@
-## Add Apps and Projects to Your Profile
+## Add Apps and Projects to Your Profile {#add-apps}
 
-### Adding Projects
+### Adding Projects {#adding-projects}
 
 LinkedIn profiles can list projects you have worked on. This can be great for showing the applications and open source projects you have contributed to. 
 
@@ -33,7 +33,7 @@ This will give you the name, app store description, and a direct link to the dow
 
 Write a short description of what you did on this app. 
 
-### Adding apps to your work experience
+### Adding apps to your work experience {#adding-apps-work}
 
 If your work on this app was part of a job listed in your work experience on LinkedIn, add it there as well. Scroll to that job in the work experience section of your profile. Edit the experience information by clicking on the edit (pencil) icon. In the dialog box that is presented there, scroll down to “Media” and click “Link”. 
 
@@ -41,7 +41,7 @@ If your work on this app was part of a job listed in your work experience on Lin
 
 Paste the link you generated from iTunes Link Maker there as well.
 
-### Adding apps to your Profile Intro
+### Adding apps to your Profile Intro {#adding-apps-intro}
 
 Once you have done that, think about which of these projects you are most proud of. What was your best work? Scroll your profile back up to the top and click the edit (pencil) icon to the right of your photo. This will present a dialog to edit your intro. Just like editing your work experience, you can add media here. These will be some of the first things anyone viewing your profile will see - pick the three projects and add links to them.
 
@@ -49,7 +49,7 @@ Once you have done that, think about which of these projects you are most proud 
 
 That is an excellent indication you should be contributing to an open source project!
 
-#### Finding an open source project to contribute to
+#### Finding an open source project to contribute to {#finding-open-source}
 
 Do your projects use any frameworks or libraries managed by CocoaPods, Carthage, or the Swift Package Manager? Look there first.
 
