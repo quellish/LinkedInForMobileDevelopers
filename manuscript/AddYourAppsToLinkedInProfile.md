@@ -31,6 +31,11 @@ Search for the app by name or bundle ID. You should see a result like this:
  
 This will give you the name, app store description, and a direct link to the download page. The direct link at the bottom of the page is what you will want for your LinkedIn profile. 
 
+#### Google Play Links
+Google provides a guide to creating deep links for the Play Store:
+[Deep linking to an app in the play store](https://developer.android.com/distribute/marketing-tools/linking-to-google-play.html#OpeningDetails)
+
+
 Write a short description of what you did on this app. 
 
 ### Adding apps to your work experience {#adding-apps-work}

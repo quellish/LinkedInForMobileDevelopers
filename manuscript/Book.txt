@@ -16,6 +16,5 @@ Recruiters.md
 
 backmatter.txt
 
-iTunesLinkMaker.md
-GooglePlayLinks.md
+Appendix.md
 
