@@ -14,9 +14,26 @@ Scroll down to “Accomplishments” and click on “Projects”. This will open
 
 For an open source project enter a link to the project home page or repository. Even better, link to your specific contributions. Describe the work you did on this project in 3 sentences.
 
-For an application that is available on the iTunes app store use a link from [iTunes Link Maker](iTunesLinkMaker.md). 
+For an application that is available on the iTunes app store use a link from iTunes Link Maker. 
 
-Write a short description of what you did on this app.
+{icon=itunes}
+G> # iTunes Link Maker
+G> 
+G> Look up the app using 
+[iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us)
+G> 
+G> ![iTunes Link Maker Search Page](images/linkmakerselectmediatype.png)
+G> 
+G> In the "Media Type" dropdown, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
+G> 
+G> Search for the app by name or bundle ID. You should see a result like this:
+G> 
+G> ![iTunes Link Maker Search Result Page](images/linkmakerresult.png)
+G> 
+G> This will give you the name, app store description, and a direct link to the download page. The direct link at the bottom of the page is what you will want for your LinkedIn profile.
+G> 
+G> Write a short description of what you did on this app.
+G> 
 
 ### Adding apps to your work experience
 
