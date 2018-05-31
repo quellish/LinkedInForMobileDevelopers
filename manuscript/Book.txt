@@ -1,8 +1,12 @@
+{mainmatter}
 GeneralGuidelines.md
 AddYourAppsToLinkedInProfile.md
 Skills.md
 ProfilePhotos.md
-
 Connections.md
 Recommendations.md
+
+{backmatter}
+iTunesLinkMaker.md
+GooglePlayLinks.md
 
