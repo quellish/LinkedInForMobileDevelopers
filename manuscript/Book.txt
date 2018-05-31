@@ -1,4 +1,5 @@
 frontmatter.txt
+Introduction.md
 mainmatter.txt
 Profile.md
 GeneralGuidelines.md
