@@ -1,4 +1,3 @@
-{mainmatter}
 Profile.md
 GeneralGuidelines.md
 AddYourAppsToLinkedInProfile.md
@@ -8,8 +7,6 @@ Network.md
 Connections.md
 Recommendations.md
 Recruiters.md
-
-{backmatter}
 iTunesLinkMaker.md
 GooglePlayLinks.md
 
