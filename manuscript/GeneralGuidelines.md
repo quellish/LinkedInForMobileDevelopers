@@ -1,4 +1,5 @@
->A General Guidelines {#general-guidelines}
+
+>A ## General Guidelines {#general-guidelines}
 >A
 >A Check your profile for grammar and spelling errors.
 >A
