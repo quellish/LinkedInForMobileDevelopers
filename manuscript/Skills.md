@@ -1,4 +1,3 @@
-{mainmatter}
 ## Skills
 
 To add a skill to your profile go to “Add new profile section…” in the upper right of your profile page. 

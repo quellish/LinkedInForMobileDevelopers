@@ -1,4 +1,3 @@
-{backmatter}
 # iTunes Link Maker
 
 Look up the app using 

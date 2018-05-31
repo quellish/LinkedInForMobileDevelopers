@@ -1,4 +1,3 @@
-{mainmatter}
 ## Profile Photos
 
 Not having a profile photo is not the end of the world, but it is better to have one than not. 
