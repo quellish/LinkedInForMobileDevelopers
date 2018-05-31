@@ -1,6 +1,9 @@
 frontmatter.txt
+
 Introduction.md
+
 mainmatter.txt
+
 Profile.md
 GeneralGuidelines.md
 AddYourAppsToLinkedInProfile.md
@@ -10,7 +13,9 @@ Network.md
 Connections.md
 Recommendations.md
 Recruiters.md
+
 backmatter.txt
+
 iTunesLinkMaker.md
 GooglePlayLinks.md
 
