@@ -1,5 +1,6 @@
 ## Add Apps and Projects to Your Profile {#add-apps}
 
+
 ### Adding Projects {#adding-projects}
 
 LinkedIn profiles can list projects you have worked on. This can be great for showing the applications and open source projects you have contributed to. 
@@ -12,9 +13,9 @@ Scroll down to “Accomplishments” and click on “Projects”. This will open
 
 ![Add New Project](images/addproject.png)
 
-For an open source project enter a link to the project home page or repository. Even better, link to your specific contributions. Describe the work you did on this project in 3 sentences.
+For an open source project enter a link to the project home page or repository. Even better, link to your specific contributions. 
 
-For an application that is available on the iTunes app store use a link from iTunes Link Maker. 
+For an application that is available on the iTunes app store use a link from iTunes Link Maker.  For an Android application you will need a Google Play deep link.
 
 #### iTunes Link Maker
 
@@ -35,8 +36,7 @@ This will give you the name, app store description, and a direct link to the dow
 Google provides a guide to creating deep links for the Play Store:
 [Deep linking to an app in the play store](https://developer.android.com/distribute/marketing-tools/linking-to-google-play.html#OpeningDetails)
 
-
-Write a short description of what you did on this app. 
+Describe the work you did on each project in 3 sentences or more. Use that as the description for the project.
 
 ### Adding apps to your work experience {#adding-apps-work}
 
@@ -44,7 +44,7 @@ If your work on this app was part of a job listed in your work experience on Lin
 
 ![Add Apps to LinkedIn Work Experience](images/editexperience.png)
 
-Paste the link you generated from iTunes Link Maker there as well.
+Paste the link you generated from iTunes Link Maker or Google Play there as well.
 
 ### Adding apps to your Profile Intro {#adding-apps-intro}
 
