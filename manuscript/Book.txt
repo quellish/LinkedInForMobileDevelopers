@@ -9,6 +9,7 @@ GeneralGuidelines.md
 AddYourAppsToLinkedInProfile.md
 Skills.md
 ProfilePhotos.md
+WorkExperience.md
 Network.md
 Connections.md
 Recommendations.md
