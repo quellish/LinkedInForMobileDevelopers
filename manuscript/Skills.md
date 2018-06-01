@@ -25,3 +25,4 @@ Only endorse someone you know, and only for skills you know they have. Don't end
 > T ## Endorse Skills on a Schedule
 > T Endorsing the skills of your connections is something you can do regularly with very little effort. 
 > T Set a weekly or monthly calendar reminder to do three endorsements. It will only take a couple of minutes and should raise your visibility on LinkedIn.
+
