@@ -18,3 +18,9 @@ W> [LinkedIn maintains a support document that outlines how to disable these not
 W> 
 W> When you are done making changes you can enable the notifications again.
 W>
+
+W>
+W> ## Backing Up Your Profile {#profile-backups}
+W> Before you start making changes to your profile it is a good idea to make a backup.
+W> To back up your LinkedIn data request a data export from the [Member Data](https://www.linkedin.com/psettings/member-data) page. LinkedIn will email you a download link shortly after you request an export. Exporting profiles, connections and recommendations is generally quick. Larger exports can take much longer - a large export every few months is not a bad idea.
+W> 
