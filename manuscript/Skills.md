@@ -2,7 +2,7 @@
 
 To add a skill to your profile go to “Add new profile section…” in the upper right of your profile page. 
 
-![Add New Profile Section](images/addprofilesection.png)
+![Add New Profile Section](images/add-skills.png)
 
 Scroll down to “Skills”. Click the "+" icon. This will present a dialog for entering a skill. Think about something you did or used in your last job. It could be a language (i.e. Swift), a framework (i.e. Core Animation), a tool (i.e. Xcode), etc. Are you the go-to guy for Core Data or table view questions? Add those. Think about what your co workers know you for. Those are the kinds of things you definitely want to add.
 
