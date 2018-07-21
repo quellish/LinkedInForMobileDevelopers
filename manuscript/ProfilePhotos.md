@@ -6,4 +6,4 @@ I highly recommend [PhotoFeeler](https://www.photofeeler.com) for choosing which
 
 Read through their guidelines and take a few photos. Use their service to test which photos perform best. Pick the best performer and set that as your photo.
 
-Want to take it to the next level? Hire a professional photographer. [Snappr] (https://www.snappr.co/)is a service that can help you do that. They also have a [LinkedIn Photo Analyzer tool](https://www.snappr.co/photo-analyzer/) that can give you some input on your photo.
+Want to take it to the next level? Hire a professional photographer. [Snappr] (https://www.snappr.co/)is a service that can help you do that. They also have a [LinkedIn Photo Analyzer tool](https://www.snappr.co/photo-analyzer/) that can give you some input on your photo. Be warned though that this tool uses machine learning and can sometimes get things [very wrong](https://blog.photofeeler.com/snappr-photo-analyzer/).
