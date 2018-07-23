@@ -1,6 +1,7 @@
 # Introduction
 
 Simply having an account on LinkedIn is not enough. 
+
 [TODO]: # (More in depth on why just having a profile is not enough)
 
 In this book you will learn how to optimize your use of LinkedIn to be time efficient and effective. The goal is to get the opportunities you *want* to find *you*.
@@ -14,7 +15,7 @@ Each of these will be broken down into actionable tasks that will not take much 
 
 Let's get started by taking a look at LinkedIn search.
 
-## LinkedIn Search
+## A Look at LinkedIn Search
 
 Finding you on LinkedIn starts with a search query and ends with your profile.  Let's look at the end of that process and work our way back to the beginning. 
 
@@ -46,6 +47,8 @@ The search service finds profiles that contain text that matches the query. It d
 
 The matching profiles are then ordered by relevance. This is where things get interesting. A number of different factors influence relevance in LinkedIn search - some of them may surprise you. We'll cover this in depth later in the book.
 
+Everyone looking for you on LinkedIn uses search. Small companies may use the same search features available to you. A large recruiting firm may use a LinkedIn Recruiter account - an expensive option that gives them additional searching and filtering options that go far beyond what we have covered so far. For example, they can filter on "number of years of experience" which is based on your work history.
 
+> W Note that while LinkedIn Recruiter accounts cost thousands, LinkedIn Sales Navigator costs $50-100 a month and offers many of the same search filters. As you refine your profile it may be worthwhile to use a Sales Navigator account for a month to be able to see yourself as recruiter would. 
 
 
