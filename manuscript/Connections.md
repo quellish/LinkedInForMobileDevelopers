@@ -6,9 +6,12 @@ Metcalfe's Law states:
 
 > The value of the network grows as the square of the size of the network
 
-That is hard to argue with. As your personal network on LinkedIn grows the reach of your profile grows with it - exponentially. That said, some connections are more valuable than others. 
+That is hard to argue with. As your personal network on LinkedIn grows the reach of your profile grows with it - exponentially. That said, some connections are more valuable than others.  People you actually know and have worked with before are far more valuable to you than random users. 
+
+[TODO]: # (State why they are more valueable)
 
 ### Adding Connections
+[TODO]: # (time to complete task: 30 minutes to 1 hour?)
 
 Look up people you have worked with in the past. Start by looking over the work experience you have listed on your profile. For each job, who in that company comes to mind first? Connect with them on LinkedIn.
 
