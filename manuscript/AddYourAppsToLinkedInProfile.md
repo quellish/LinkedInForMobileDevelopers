@@ -1,10 +1,10 @@
-## Add Apps and Projects to Your Profile {#add-apps}
+## Add Apps and Projects to Your Profile {#adding-apps}
 
 Most companies that are looking for mobile developers want to see the apps you have worked on. One of the best ways to showcase your work is to add those apps to your profile and highlight those you are proud of.
 
 > A Even though every company and every recruiter wants a list of your apps it does seem that few download or run the apps. Don't feel singled out if during a later conversation it seems they are not familiar with your apps. 
 
-### Adding Projects {#adding-projects}
+### Adding Projects {#adding-apps-adding-projects}
 
 LinkedIn profiles can list projects you have worked on. This can be great for showing the applications and open source projects you have contributed to. 
 
