@@ -6,14 +6,14 @@ mainmatter.txt
 
 Profile.md
 GeneralGuidelines.md
-AddYourAppsToLinkedInProfile.md
-Skills.md
-ProfilePhotos.md
-WorkExperience.md
-Network.md
-Connections.md
-Recommendations.md
-Recruiters.md
+profile/BeforeYouGetStarted.md
+profile/minimum/MinimumViableProfile.md
+network/Connections.md
+profile/optimized/WorkExperience.md
+profile/optimized/AddYourAppsToLinkedInProfile.md
+profile/optimized/Skills.md
+profile/optimized/ProfilePhotos.md
+profile/optimized/Recommendations.md
 
 backmatter.txt
 
