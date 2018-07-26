@@ -18,7 +18,7 @@ Checklist:
 ## Getting Started {#minimum-viable-profile-getting-started}
 While you work on your profile it is a good idea to have a note pad or text editor handy. When you run into a speed bump like not being able to remember what dates you were at a job, make a note of it and move on. You will be coming back later to optimize your profile further - notes will have you better prepared.
 
-## Location {#minimum-viable-profile-location}
+## Set Your Location {#minimum-viable-profile-location}
 Set your location using the name of the town or city you are located in. You can also use the zip code in the US.
 Location settings can be changed by going to "Settings and Privacy":
 
@@ -30,14 +30,14 @@ Location settings can be changed by going to "Settings and Privacy":
 
  This will actually take you back to "Edit Intro" on your profile, which is where you can make the other changes in this section as well.
 
-## Industry {#minimum-viable-profile-industry}
+## Set an Industry {#minimum-viable-profile-industry}
 For readers of this book this should be "Computer Software". At least as of this writing there is no specific "Mobile Software" industry listed - even though "Nanotechnology" is!
 
-## Education {#minimum-viable-profile-education}
+## Add Your Education {#minimum-viable-profile-education}
 Easy, enter where you last went to school. Graduate school, college, or high school. LinkedIn will suggest matches as you type. 
 If you have attended a special technical school or program and *LinkedIn suggests a match*, add that as well. For example, LinkedIn recognizes some "coding bootcamps" and online courses as educational institutions.
 
-## Work Experience {#minimum-viable-profile-work-experience}
+## Enter Some Work Experience {#minimum-viable-profile-work-experience}
 
 ### Company Name
 It is important to use the company name that LinkedIn provides rather than writing it yourself. Imagine if you had three people who worked at Apple. 
@@ -55,7 +55,7 @@ Enter anything reasonably accurate for now. We're coming back to this later for 
 ### Job Description
 You can leave this blank for now if you want - we're coming back to it later. 
 
-## Skills {#minimum-viable-profile-skills}
+## Add Three Skills {#minimum-viable-profile-skills}
 To add a skill to your profile go to “Add new profile section…” in the upper right of your profile page. 
 
 ![Add New Profile Section](../../images/add-skills.png)
@@ -64,7 +64,7 @@ Scroll down to “Skills”. Click the "+" icon. This will present a dialog for 
 
 You should have at least 3 skills listed on your profile.
 
-## Profile Photo {#minimum-viable-profile-profile-photo}
+## Add a Profile Photo {#minimum-viable-profile-profile-photo}
 Add a profile photo that shows *you*. Don't spend too much time choosing a photo - we will come back to this later.
 
 ## Ready!
