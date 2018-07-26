@@ -1,4 +1,5 @@
-# Minimum Viable Profile {#minimum-viable-profile}
+-# Minimum Viable Profile {#minimum-viable-profile}
+
 The minimum information that should be on your profile to start.
 ***Average Completion Time: 30 minutes***
 

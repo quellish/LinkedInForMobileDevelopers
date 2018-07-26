@@ -1,4 +1,5 @@
-# Alpha Profile {#alpha-profile}
+-# Alpha Profile {#alpha-profile}
+
 Adding useful detail to your profile
 ***Average Completion Time: 30 minutes***
 

@@ -1,4 +1,5 @@
-# Beta Profile {#beta-profile}
+-# Beta Profile {#beta-profile}
+
 The Pickle Rick of profiles.
 ***Average Completion Time: 45 minutes***
 
