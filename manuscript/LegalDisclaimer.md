@@ -1,0 +1,1 @@
+This book is in no way authorized by, endorsed by, or affiliated with LinkedIn or its subsidiaries. All references to LinkedIn and other trademarked properties are used in accordance with the Fair Use Doctrine and are not meant to imply that this book is a LinkedIn product for advertising or other commercial purposes.
