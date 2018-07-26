@@ -38,7 +38,7 @@ Look up the app using
 
 ![iTunes Link Maker Search Page](images/linkmakerselectmediatype.png)
  
-In the "Media Type" dropdown, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
+In the "Media Type" drop-down, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
  
 Search for the app by name or bundle ID. You should see a result like this:
  
@@ -77,7 +77,7 @@ If you are STILL looking, try [Github's trending Objective-C repositories list](
 
 Read through the open issues and recent mailing list messages. Look for an issue, feature, or enhancement you believe you could handle. 
 
-If you don't see an issue that fits your skills you can always add tests. Most open source projects appreciate contributed tests. Look for areas of the the project that have poor code coverage or areas that may be the source of bugs. 
+If you don't see an issue that fits your skills you can always add tests. Most open source projects appreciate contributed tests. Look for areas of the project that have poor code coverage or areas that may be the source of bugs. 
 
 Check the project documentation for guidance on how best to contribute. Many projects have guidelines for contributors and coding standards. 
 

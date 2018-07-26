@@ -12,7 +12,7 @@ On their profile page click "More..." and select "Recommend"
 
 ![Linked In Recommendation](images/recommend.png)
 
-Sometimes writing a recommendation just flows out of you into the keyboard. And sometimes the tiny, empty text field just seems to be sitting there mocking you. 
+Sometimes writing a recommendation flows out of you into the keyboard. And sometimes the tiny, empty text field seems to be sitting there mocking you. 
 
 For those times you can use a recommendation generator as a starting point.
 
@@ -20,4 +20,4 @@ For those times you can use a recommendation generator as a starting point.
 
 [And here is another](http://socialrecommendator.com)
 
-Some time *after* you write a recommendation check LinkedIn to see if they have recommended you back. If they have not you can request a recommendation from them.
+Some time *after* you write a recommendation check LinkedIn to see if they have recommended you back. If they have not, you can request a recommendation from them.
