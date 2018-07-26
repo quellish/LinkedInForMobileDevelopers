@@ -17,7 +17,7 @@ Checklist:
 	- Can be any photo of you for now. 
 
 ## Getting Started {#minimum-viable-profile-getting-started}
-While you work on your profile it is a good idea to have a note pad or text editor handy. When you run into a speed bump like not being able to remember what dates you were at a job, make a note of it and move on. You will be coming back later to optimize your profile further - notes will have you better prepared.
+While you work on your profile, it is a good idea to have a note pad or text editor handy. When you run into a speed bump like not being able to remember what dates you were at a job, make a note of it and move on. You will be coming back later to optimize your profile further - notes will have you better prepared.
 
 ## Set Your Location {#minimum-viable-profile-location}
 Set your location using the name of the town or city you are located in. You can also use the zip code in the US.
@@ -35,13 +35,13 @@ Location settings can be changed by going to "Settings and Privacy":
 For readers of this book this should be "Computer Software". At least as of this writing there is no specific "Mobile Software" industry listed - even though "Nanotechnology" is!
 
 ## Add Your Education {#minimum-viable-profile-education}
-Easy, enter where you last went to school. Graduate school, college, or high school. LinkedIn will suggest matches as you type. 
-If you have attended a special technical school or program and *LinkedIn suggests a match*, add that as well. For example, LinkedIn recognizes some "coding bootcamps" and online courses as educational institutions.
+Easy, enter where you last went to school. Graduate school, college, or high school. LinkedIn suggests matches as you type. 
+If you have attended a specialized technical school or program and *LinkedIn suggests a match*, add that as well. For example, LinkedIn recognizes some "coding bootcamps" and online courses as educational institutions.
 
 ## Enter Some Work Experience {#minimum-viable-profile-work-experience}
 
 ### Company Name
-It is important to use the company name that LinkedIn provides rather than writing it yourself. Imagine if you had three people who worked at Apple. 
+It is essential to use the company name that LinkedIn provides rather than writing it yourself. Imagine if you had three people who worked at Apple. 
 One lists the company name as "Apple".
 The second writes it as "Apple, Inc".
 And the third uses "Apple Computer".
