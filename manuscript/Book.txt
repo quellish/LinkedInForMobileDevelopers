@@ -5,7 +5,6 @@ Introduction.md
 mainmatter.txt
 
 Profile.md
-GeneralGuidelines.md
 profile/BeforeYouGetStarted.md
 profile/minimum/MinimumViableProfile.md
 network/Connections.md
