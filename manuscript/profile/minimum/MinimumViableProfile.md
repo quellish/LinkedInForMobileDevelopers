@@ -4,13 +4,14 @@ The minimum information that should be on your profile to start.
 
 Checklist:
 
-- [ ] Location
-- [ ] Industry
-- [ ] Education
+- [ ] Set Location
+- [ ] Set Industry
+- [ ] Add Education
 	- College or high school
-- [ ] Work Experience
+- [ ] Add Last 3 Positions
 	- Last 3 positions
 	- Job Title, Company, Dates
+- [ ] Add 3 Skills
 - [ ] Profile Photo
 	- Can be any photo of you for now. 
 
@@ -53,6 +54,15 @@ Enter anything reasonably accurate for now. We're coming back to this later for 
 
 ### Job Description
 You can leave this blank for now if you want - we're coming back to it later. 
+
+## Skills {#minimum-viable-profile-skills}
+To add a skill to your profile go to “Add new profile section…” in the upper right of your profile page. 
+
+![Add New Profile Section](../../images/add-skills.png)
+
+Scroll down to “Skills”. Click the "+" icon. This will present a dialog for entering a skill. Think about something you did or used in your last job. It could be a language (i.e. Swift, Java, Kotlin), a framework (i.e. Core Animation), a tool (i.e. Xcode, Gradle), etc. Are you the go-to guy for Core Data or table view questions? Add those. Think about what your co workers know you for. Those are the kinds of things you definitely want to add.
+
+You should have at least 3 skills listed on your profile.
 
 ## Profile Photo {#minimum-viable-profile-profile-photo}
 Add a profile photo that shows *you*. Don't spend too much time choosing a photo - we will come back to this later.
