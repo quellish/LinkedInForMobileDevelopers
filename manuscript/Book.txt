@@ -9,11 +9,11 @@ GeneralGuidelines.md
 profile/BeforeYouGetStarted.md
 profile/minimum/MinimumViableProfile.md
 network/Connections.md
-profile/optimized/WorkExperience.md
-profile/optimized/AddYourAppsToLinkedInProfile.md
-profile/optimized/Skills.md
-profile/optimized/ProfilePhotos.md
+profile/optimized/AlphaProfile.md
 profile/optimized/Recommendations.md
+profile/optimized/BetaProfile.md
+profile/optimized/AddYourAppsToLinkedInProfile.md
+profile/optimized/ProfilePhotos.md
 
 backmatter.txt
 
