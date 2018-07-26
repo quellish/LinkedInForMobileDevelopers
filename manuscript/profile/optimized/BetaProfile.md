@@ -7,6 +7,8 @@ Checklist:
 - [ ] Update job titles
 - [ ] Update job descriptions
 
+[TODO]: # (Larger overview of relevance and weighting)
+
 ## Choosing Key Words and Phrases {#beta-profile-keywords}
 
 Unfortunately LinkedIn does not publish any data on what people are searching for.  Having that data would be helpful but it is not necessary - you can rely on the laziness of the recruiters and hiring managers instead.
