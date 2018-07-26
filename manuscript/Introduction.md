@@ -29,7 +29,7 @@ Most of this book will focus on your profile.
 
 When someone searches LinkedIn the results look like this:
 
-![LinkedIn search results](images/linkedinserpsmall.png)
+![LinkedIn search results](resources/images/linkedinserpsmall.png)
 
 Each result is constructed using the photo, name, headline, location, title and company information from a user's profile. This what anyone searching for you will see first - keep that in mind when editing your profile. 
 

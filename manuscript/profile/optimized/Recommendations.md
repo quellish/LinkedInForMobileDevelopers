@@ -10,7 +10,7 @@ Look up the person you want to recommend. You should be connected to them on Lin
 
 On their profile page click "More..." and select "Recommend"
 
-![Linked In Recommendation](../../images/recommend.png)
+![Linked In Recommendation](resources/images/recommend.png)
 
 Sometimes writing a recommendation just flows out of you into the keyboard. And sometimes the tiny, empty text field just seems to be sitting there mocking you. 
 

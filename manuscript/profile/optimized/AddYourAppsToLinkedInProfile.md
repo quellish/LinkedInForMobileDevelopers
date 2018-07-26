@@ -21,11 +21,11 @@ LinkedIn profiles can list projects you have worked on. This can be great for sh
 
 To add a project to your profile go to “Add new profile section…” in the upper right of your profile page. 
 
-![Add New Profile Section](../../images/addprofilesection.png)
+![Add New Profile Section](resources/images/addprofilesection.png)
 
 Scroll down to “Accomplishments” and click on “Projects”. This will open a dialog box for adding a new project.
 
-![Add New Project](../../images/addproject.png)
+![Add New Project](resources/images/addproject.png)
 
 For an open source project enter a link to the project home page or repository. Even better, link to your specific contributions. 
 
@@ -36,13 +36,13 @@ For an application that is available on the iTunes app store use a link from iTu
 Look up the app using 
 [iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us) 
 
-![iTunes Link Maker Search Page](../../images/linkmakerselectmediatype.png)
+![iTunes Link Maker Search Page](resources/images/linkmakerselectmediatype.png)
  
 In the "Media Type" dropdown, select "iOS Apps" (or "macOS Apps" for the Mac App Store).
  
 Search for the app by name or bundle ID. You should see a result like this:
  
- ![iTunes Link Maker Search Result Page](../../images/linkmakerresult.png)
+ ![iTunes Link Maker Search Result Page](resources/images/linkmakerresult.png)
  
 This will give you the name, app store description, and a direct link to the download page. The direct link at the bottom of the page is what you will want for your LinkedIn profile. 
 
@@ -56,7 +56,7 @@ Describe the work you did on each project in 3 sentences or more. Use that as th
 
 If your work on this app was part of a job listed in your work experience on LinkedIn, add it there as well. Scroll to that job in the work experience section of your profile. Edit the experience information by clicking on the edit (pencil) icon. In the dialog box that is presented there, scroll down to “Media” and click “Link”. 
 
-![Add Apps to LinkedIn Work Experience](../../images/editexperience.png)
+![Add Apps to LinkedIn Work Experience](resources/images/editexperience.png)
 
 Paste the link you generated from iTunes Link Maker or Google Play there as well.
 
