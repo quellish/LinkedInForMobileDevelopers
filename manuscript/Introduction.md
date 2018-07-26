@@ -13,7 +13,7 @@ We will cover how to:
 
 Each of these will be broken down into actionable tasks that will not take much of your time. 
 
-Let's get started by taking a look at LinkedIn search.
+Let's get started by taking a look at how LinkedIn search works.
 
 ## A Look at LinkedIn Search
 
@@ -21,7 +21,7 @@ Finding you on LinkedIn starts with a search query and ends with your profile.  
 
 ### Your Profile {#linkedin-search-profile}
 
-Your profile is the core of your presence on LinkedIn. It contains your work history, skills, education and more.  The LinkedIn search service indexes the content of your profile for searching. 
+Your profile is the core of your professional presence. It contains your work history, skills, education and more.  The LinkedIn search service indexes the content of your profile for searching. 
 
 Most of this book will focus on your profile.
 
@@ -31,7 +31,7 @@ When someone searches LinkedIn the results look like this:
 
 ![LinkedIn search results](images/linkedinserpsmall.png)
 
-Each result is constructed using the photo, name, headline, location, title and company information from a user's profile. This what anyone searching for you will see first - keep that in mind when editing your profile. 
+Each result is constructed using the photo, name, headline, location, title and company information from a user's profile. These search results are what anyone who is searching for someone like you will see first - keep that in mind when editing your profile. 
 
 Here "John Yaya" has just signed up for LinkedIn and provided the minimum information the onboarding process required. 
 
@@ -41,11 +41,11 @@ The "LinkedIn Member" results are for members not in John Yaya's network. Their 
 
 ### Search Query {#linkedin-search-query}
 
-LinkedIn searches *only* profiles that the user doing the search is connected to by 1, 2 or 3 degrees. That means you can search your connections, the connections of your connections, and the connections of those connections. Any results outside of that network get masked or anonymized - the "LinkedIn Member" results we saw in the search results.
+LinkedIn searches *only* profiles that the user searching is connected to by 1, 2 or 3 degrees. That means you can search your connections, the connections of your connections, and the connections of those connections. Any results outside of that network get masked or anonymized - the "LinkedIn Member" results we saw in the search results.
 
-The search service finds profiles that contain text that matches the query. It doesn't have to be an exact match. The search service can "stem" some words, treating "developers" as equivalent to "developer". It can also treat some words as synonyms. In general though, don't depend on the search service being particularly smart. 
+The search service finds profiles that contain text that matches the query. It doesn't have to be an exact match. The search service can "stem" some words, treating "developers" as equivalent to "developer". It can also treat some words as synonyms. In general, though, don't depend on the search service being particularly smart. 
 
-The matching profiles are then ordered by relevance. This is where things get interesting. A number of different factors influence relevance in LinkedIn search - some of them may surprise you. We'll cover this in depth later in the book.
+Relevance then orders the matching profiles. This is where things get interesting. A number of different factors influence relevance in LinkedIn search - some of them may surprise you. We'll cover this in depth later in the book.
 
 Everyone looking for you on LinkedIn uses search. Small companies may use the same search features available to you. A large recruiting firm may use a LinkedIn Recruiter account - an expensive option that gives them additional searching and filtering options that go far beyond what we have covered so far. For example, they can filter on "number of years of experience" which is based on your work history.
 
