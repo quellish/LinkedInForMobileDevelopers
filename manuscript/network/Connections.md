@@ -1,4 +1,4 @@
-## Connections {#connections}
+# Connections {#connections}
 
 [TODO]: # (Common thinking about LinkedIn connections)
 
@@ -10,14 +10,14 @@ That is hard to argue with. As your personal network on LinkedIn grows the reach
 
 [TODO]: # (State why they are more valueable)
 
-### Adding Connections
+## Adding Connections
 [TODO]: # (time to complete task: 30 minutes to 1 hour?)
 
 Look up people you have worked with in the past. Start by looking over the work experience you have listed on your profile. For each job, who in that company comes to mind first? Connect with them on LinkedIn.
 
 You can also add people you know from places like Reddit, StackOverflow, or blogs you follow. When you connect with them write a short message introducing yourself.
 
-### Visualizing Your Network
+## Visualizing Your Network
 
 [Socilab](http://socilab.com/#home) is a tool for visualizing your LinkedIn connections graph. 
 
