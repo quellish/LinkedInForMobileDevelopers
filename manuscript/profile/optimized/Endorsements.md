@@ -13,7 +13,7 @@ LinkedIn skills are most valuable when another user endorses you for that skill.
 Browse to their profile. You can use search, your connections list, or even Google to find it.
 Scroll down to "Skills & Endorsements". 
 
-![A Connection's Skills Ready to be Endorsed](resources/images/profileEndorseSkill.png)
+![A Connection's Skills Ready to be Endorsed](images/profileEndorseSkill.png)
 
 Click the "+" icon to endorse a skill that is listed.
 

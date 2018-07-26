@@ -16,11 +16,11 @@ Perhaps the most annoying thing about LinkedIn is the volume of email it sends. 
 
 Go to "Settings and Privacy":
 
-![Settings and Privacy](resources/images/yaya-settingsandprivacy-annotated.png)
+![Settings and Privacy](images/yaya-settingsandprivacy-annotated.png)
 
  then the "Communications" tab.
  
- ![Settings and Privacy](resources/images/yaya-communicationsettings.png)
+ ![Settings and Privacy](images/yaya-communicationsettings.png)
 
 You will definitely want to look at *every* section of this page and modfy most settings.
 

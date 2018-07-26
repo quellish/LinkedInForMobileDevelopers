@@ -27,7 +27,7 @@ Location settings can be changed by going to "Settings and Privacy":
 
 ...then "Site Preferences":
 
-![Site Preferences](../../resources/images/yaya-sitepreferences-annotated.png)
+![Site Preferences](../../images/yaya-sitepreferences-annotated.png)
 
  This will actually take you back to "Edit Intro" on your profile, which is where you can make the other changes in this section as well.
 
