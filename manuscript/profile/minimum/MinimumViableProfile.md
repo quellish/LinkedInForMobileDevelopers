@@ -23,7 +23,7 @@ While you work on your profile it is a good idea to have a note pad or text edit
 Set your location using the name of the town or city you are located in. You can also use the zip code in the US.
 Location settings can be changed by going to "Settings and Privacy":
 
-![Settings and Privacy](../../images/yaya-settingsandprivacy-annotated.png)
+![Settings and Privacy](images/yaya-settingsandprivacy-annotated.png)
 
 ...then "Site Preferences":
 
