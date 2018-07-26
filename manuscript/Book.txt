@@ -5,14 +5,15 @@ Introduction.md
 mainmatter.txt
 
 Profile.md
-profile/BeforeYouGetStarted.md
-profile/minimum/MinimumViableProfile.md
-network/Connections.md
-profile/optimized/AlphaProfile.md
-profile/optimized/Recommendations.md
-profile/optimized/BetaProfile.md
-profile/optimized/AddYourAppsToLinkedInProfile.md
-profile/optimized/ProfilePhotos.md
+BeforeYouGetStarted.md
+minimum/MinimumViableProfile.md
+Connections.md
+
+AlphaProfile.md
+Recommendations.md
+BetaProfile.md
+AddYourAppsToLinkedInProfile.md
+ProfilePhotos.md
 
 backmatter.txt
 
